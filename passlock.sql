@@ -1,3 +1,5 @@
+-- change to suit db type or context (this is for a webapp and postgres)
+
 -- drop table passlock;
 CREATE TABLE passlock (                                                                     
     id SERIAL PRIMARY KEY,
